@@ -1,7 +1,9 @@
 
 const page = () => {
   return (
-    <div>hello from admin</div>
+    <div>
+      Some random code
+    </div>
   )
 }
 
